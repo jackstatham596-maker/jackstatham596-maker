@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a developer with a strong interest in **software development**, **computer networking**, and **cybersecurity**. I work with C, C++, C#, Java, and Python, and I recently completed my **CompTIA Network+** certification. I'm currently deepening my knowledge of networking and cybersecurity while building practical projects along the way.
+Software developer focused on **computer networking** and **cybersecurity**, with hands-on experience in C, C++, C#, Java, and Python. I hold a **CompTIA Network+** certification and am currently expanding my expertise in network security while building practical, real-world projects.
 
 <br>
 
@@ -21,25 +21,25 @@ I'm a developer with a strong interest in **software development**, **computer n
 ### 🔐 Areas of Interest
 
 - Computer Networking
-- Network Security & Cybersecurity
+- Network & Cybersecurity
 - Socket Programming
 - System Programming
 - Software Development
 
 ### 📚 Currently Learning
 
-- Advanced Networking
+- Advanced Networking Concepts
 - Network Security
 - Cybersecurity Fundamentals
 - Data Structures & Algorithms
 
 ### 🚀 Goals
 
-- Build practical, real-world projects
-- Strengthen my programming and problem-solving skills
-- Deepen my knowledge of networking and cybersecurity
+- Develop practical, real-world projects
+- Strengthen core programming and problem-solving skills
+- Advance my expertise in networking and cybersecurity
 - Contribute to open-source projects
-- Keep learning and growing, one project at a time
+- Grow continuously through hands-on learning
 
 <br>
 
@@ -64,7 +64,7 @@ I'm a developer with a strong interest in **software development**, **computer n
 </p>
 
 <p align="center">
-  <em>Feel free to explore my repositories and projects — feedback and collaboration are always welcome.</em>
+  <em>Explore my repositories below — feedback and collaboration are always welcome.</em>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
