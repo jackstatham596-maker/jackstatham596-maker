@@ -1,50 +1,52 @@
-<h1 align="center">Hi, I'm KernMRO 👋</h1>
+<h1 align="center">Hey, I'm KernMRO 👋</h1>
+
+<h3 align="center">
+  Developer | Networking & Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2400&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&height=45&repeat=true&lines=Software+Developer;Networking+%26+Cybersecurity+Enthusiast;Always+Learning+%26+Building"
-    alt="Software Developer | Networking and Cybersecurity Enthusiast | Always Learning and Building"
-  />
-</p>
-
-<p align="center">
-  Interested in software development, computer networking, and cybersecurity.
+  Building, learning, and exploring the world of software,
+  computer networks, and cybersecurity.
 </p>
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
-- I work with **C, C++, C#, Java, and Python**.
-- I recently completed **Network+** and am continuing to develop my networking and cybersecurity skills.
-- I enjoy exploring how software and computer networks work.
+- 💻 Programming with C, C++, C#, Java, and Python
+- 🌐 Completed CompTIA Network+ learning and certification track*
+- 🔐 Interested in network security, system programming, and cybersecurity
+- 📚 Currently exploring advanced networking and data structures
+- 🚀 Focused on hands-on projects and continuous improvement
 
-### Languages
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" alt="C, C++, C#, Java, and Python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
 </p>
 
-### Areas of Interest
+### 🎯 Focus Areas
 
-- Computer networking and network security
-- Cybersecurity fundamentals
-- Socket and systems programming
-- Software development
+- Computer Networking & Network Security
+- Cybersecurity Fundamentals
+- Socket Programming
+- System-Level Development
+- Data Structures & Algorithms
 
-### Currently Learning
+### 📊 GitHub Analytics
 
-- Advanced networking
-- Network security
-- Data structures and algorithms
-
-### GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=tokyonight&hide_border=true" alt="KernMRO's GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=KernMRO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernMRO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  Feel free to explore my repositories and projects.
+### 🤝 Let's Connect
+
+Feel free to explore my repositories, follow my journey,
+and connect through open-source projects.
+
+<p align="center">
+  <i>Learn continuously. Build practically. Secure thoughtfully.</i>
 </p>
