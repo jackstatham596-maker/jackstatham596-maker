@@ -57,7 +57,9 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 <br>
 
 ### 📫 Connect With Me
-
+<div align="center" style="vertical-align:top;">
+  <a href="https://www.buymeacoffee.com/klezvirus" target="blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klezvirus" /></a>
+<div align="center" style="vertical-align:bottom;">
 <p align="center">
   <a href="https://github.com/jackstatham596-maker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Add your LinkedIn / email / etc. the same way -->
